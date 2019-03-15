@@ -1,0 +1,142 @@
+/* CSS Document */
+
+html, body {
+	width: 700px;
+	margin: 0 auto;
+	font-family: sans-serif;
+	font-size: 13px;
+	color: #333;
+	background-color: #336699; }
+	
+h1 {
+	margin: 2px;}
+	
+button {
+	font-size: 12px;
+	font-weight: bold;
+	padding: 8px;
+}
+	
+div#content {
+	padding: 20px;
+	background-color: #EEE;
+ }
+	
+div#controls {
+	text-align: right;
+ }
+	
+div#controls span {
+	font-weight: bold;
+	color: #990000; 
+}
+	
+div#controls button {
+	margin-left: 20px; 
+}
+	
+div#timer {
+	display: none;
+	font-weight: bold; 
+	margin-left: 20px; 
+	color: #336699; 
+}
+	
+div#gamespace {
+	margin: 20px;
+	padding: 10px;
+	height: 350px;
+	position: relative;
+	background-color: #FFF;
+	border: 2px solid #CCC;
+	
+ }
+ div#gamespace img { position: absolute; }
+
+img.ballon{
+	margin-left: auto;
+	margin-right: auto;
+}
+img#cactus1{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 555px;
+}
+img#cactus2{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 505px;
+}
+img#cactus3{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 455px;
+}
+img#cactus4{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 405px;
+}
+img#cactus5{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 355px;
+}
+img#cactus6{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 305px;
+}
+img#cactus7{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 255px;
+}
+img#cactus8{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 205px;
+}
+img#cactus9{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 155px;
+}
+img#cactus10{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 105px;
+}
+img#cactus11{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 55px;
+}img#cactus12{
+	position:absolute;
+	margin-left: auto;
+	margin-right: auto;
+	top: 309px;
+	right: 5px;
+}
